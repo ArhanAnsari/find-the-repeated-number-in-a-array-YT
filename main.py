@@ -3,6 +3,9 @@ Problem:
 Find the Repeated Number in an Array
 You are given an array of integers where one number is repeated. The array contains n+1 integers where each integer is between 1 and n (inclusive). 
 Your task is to find the repeated number in the array.
+
+Time Complexity: O(n)
+Space Complexity: O(n)
 """
 
 #Solution
